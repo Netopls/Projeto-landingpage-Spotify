@@ -15,9 +15,10 @@ body{
     color: aliceblue;
     margin: 50px;
     text-decoration: none;
-    width: 500px;
     gap: 30px;
-}
+    max-width: 750px;
+    height: 54px;
+}   
 
 .cabeçalho-sidebar  > a {
     gap: 30px;
@@ -27,8 +28,6 @@ body{
 .cabeçalho-sidebar  > a:hover {
     background-color: #1ED760;
 }
-     
- 
 
 .conteudo-botoes{
     color: aliceblue;
